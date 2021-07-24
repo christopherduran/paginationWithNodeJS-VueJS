@@ -10,9 +10,9 @@
 
 ###### Pagination With Nodejs, VueJS, MongoDBAtlas
 
-* Using NodeJS and VueJS to create the server and view
-* Using Mongodb Atlas to get information
-* You can use the numbers button to load previous and next data
+* Using NodeJS and VueJS to create the server and view.
+* Using Mongodb Atlas to get information.
+* You can use the numbers button to load previous and next data.
 
 <div align="center">
   
